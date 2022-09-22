@@ -1,36 +1,58 @@
-# REGULAMIN:
-## Wersja Zasad
+# REGULAMIN
+
+### Spis treści
+1. [REGULAMIN](#regulamin)
+   1. [Wersja Zasad](#wersja-zasad)
+   1. [Format](#format)
+   1. [Secret Missions](#secret-missions)
+   1. [Rozgrywka](#rozgrywka)
+   1. [Scenariusze](#scenariusze)
+   1. [PROXY](#proxy)
+   1. [Armie](#armie)
+   1. [Army Builder](#army-builder)
+   1. [Sędzia](#sędzia)
+   1. [ZASADY TERENÓW](#zasady-terenów)
+   1. [KONKURS MALARSKI:](#konkurs-malarski)
+1. [DOJAZD NA MIEJSCE:](#dojazd-na-miejsce)
+1. [NOCLEGI:](#noclegi)
+1. [DODATKOWO](#dodatkowo)
+1. [REGULAMIN SKLEPU](#regulamin-sklepu)
+
+### Wersja Zasad
 1.5.1 wraz z obowiązującymi erratami, poprawkami w army listach oraz FAQ, aktualne na dzień 24.09.2022. Późniejsze zmiany nie będą brane pod uwagę z racji na zbyt krótki czas na zapoznanie się i przygotowanie.
 
 W przypadku nastąpienia sytuacji niewyjaśnionej przez oficjalne dokumenty, zdroworozsądkowo sytuację rozstrzyga Sędzia turnieju. Organizator Turnieju zrzeka się z prawa do udziału w decyzjach dotyczących zasad, akceptując werdykt sędziego
 
-## Format
+### Format
 2000pts, jedna rozpiska
 
-## Secret Missions
+### Secret Missions
 Nie
 
+### Rozgrywka
 3 gry każdego dnia. Po drugiej grze każdego dnia będzie następować przerwa obiadowa
 
 1 gra = 150 min. 15min przed końcem pada hasło terminacja. Po terminacji gracze zostawiają stół, dokończają aktualne aktywowaną jednostkę do końca i traktują tę aktywację jako ostatnią, przechodzą do scoringu jakby nastąpił koniec rundy
 
+
+### Scenariusze
 Scenariusze losowane na starcie każdej rundy z dokumentu aktualnej wersji „Organized Play - Scenarios” z wykluczeniem scenariuszy już wylosowany wcześniej podczas turnieju. Oznacza to, że zostanie rozegrany każdy scenariusz. Do każdego stołu będą przypisane tereny, uprasza się ich nie przestawiać podczas trwania rozgrywki – nie będą się zmieniać wraz ze scenariuszami
 
-## PROXY
+### PROXY
 Modele z kategorii „Command Models” oraz „Additional Command Models” są dopuszczone do klimatycznego i smacznego sproxowania, niezależnie od tego, czy jest to model wydany czy nie. Model musi być wyraźnie oznaczony na standzie (przykład: można wystawić model Thegn w Nordach, gdyż nie ma jeszcze oficjalnego modelu w sprzedaży) Modele z Founders Exclusive (edycje limitowane ilością sztuk) są dopuszczane do gry (przykład: Tourney Champion w „The Joust”) Jeśli model z Founders Exclusive jest modelem z kategorii „Additional Command Models”, można klimatycznie i smacznie go sproxować. Model musi być wyraźnie oznaczony na standzie (przykład: Nie posiadając zestawu „The Joust” model Tourney Championa można sproxować) W razie sytuacji spornej podczas turnieju, finalne zdanie o dopuszczeniu modelu do gry ma Organizator Turnieju. By ustalić legalność modelu przed turniejem i by uniknąć przykrych niespodzianek, należy skontaktować się ze Sklepem celem weryfikacji legalności
 
-## Armie
+### Armie
 Nie muszą być malowane, jednak będzie to mile widziane. Przewidziany jest też konkurs na najlepiej pomalowaną warbandę (patrz KONKURS MALARSKI poniżej)
 
-## Army Builder
+### Army Builder
 Używamy rozpisek z oficjalnego druku armybuildera w wersji OLD:https://oldab.para-bellum.com/
 
-## Sędzia
+### Sędzia
 W przypadku niejasności zasad, należy wezwać Sędziego. Decyzja Sędziego która zapadnie po wysłuchaniu obu graczy jest ostateczna i nie podlega dalszej dyskusji
 
 Wszelkie wątpliwości odnośnie zasad i planowanych rozpisek należy zgłaszać do @Maksymilian Kropiński, który oficjalnie pełni rolę sędziego turnieju.
 
-## ZASADY TERENÓW
+### ZASADY TERENÓW
 Podczas pierwszego dnia przed pierwszą grą, Sędzia wyjaśni jakie rodzaje terenów znajdują się na danym stole. Dostępne tereny to:
  - Solidny Garnizon (kamienne, całe budowle, wieże strażnicze): Capacity 4, podnosi D jednostki o 2. W przypadku wież, dodatkowe Elevated 2
  - Garnizon (drobne drewniane domki, ruiny budynków): Capacity 4, podnosi D jednostki o 1
@@ -42,14 +64,14 @@ Podczas pierwszego dnia przed pierwszą grą, Sędzia wyjaśni jakie rodzaje ter
  - Krater z cieczą/bagna: Very Dangerous Terrain, Water
  - Pola uprawne: Hindering, Broken Ground
 
-## KONKURS MALARSKI:
+### KONKURS MALARSKI:
 Jak wspominaliśmy wcześniej, każdy z graczy ma prawo wystąpić w konkursie malarskim. By wziąć udział należy spełniać poniższe warunki:
 - posiadać w pełni pomalowany jeden model typu Character
 - posiadać 4 w pełni pomalowane unity w ich najmniejszym legalnym wystawieniu na poziomie rozpiski. Unity mogą posiadać modele będące ich legalnymi ulepszeniami, jak Leader czy modele z sekcji Additional Command Models
 
-Przykład to: Biomancer, 3 Standy Forge-Grown Drones z Catabolic Node oraz Pheromonic Node, 3 Standy Incarnate Sentinels, Abominacja, 3 Standy Avatara, w tym szatandarowy)
+Przykład to: Biomancer, 3 Standy Forge-Grown Drones z Catabolic Node oraz Pheromonic Node, 3 Standy Incarnate Sentinels, Abominacja, 3 Standy Avatara, w tym szatandarowy.
 
-Mówiąc w pełni pomalowany, mamy na myśli sam model, podstawkę jak i stand na którym porusza się dana jednostka.
+Mówiąc w **pełni pomalowany**, mamy na myśli sam model, podstawkę jak i stand na którym porusza się dana jednostka.
 Jury zostanie ogłoszone niebawem.
 
 # DOJAZD NA MIEJSCE:
@@ -67,7 +89,7 @@ W okolicy sklepu istnieje ogromna baza noclegowa ze względu na bliskie położe
 Bardzo prosimy o kilka rzeczy:
 1. W przypadku rezygnacji lub niemożności dotarcia na turniej możecie znaleźć zastępstwo. Szukanie go nie należy do obowiązków organizatora.
 2. Przychodząc pograć zgadzacie się na przestrzeganie zasad POWYŻEJ oraz tych zlinkowanych PONIŻEJ.
-3.Bardzo prosimy o nie wnoszenie i nie spożywanie produktów spożywczych kupionych poza sklepem. Punkt ten nie dotyczy dań dietetycznych i domowej roboty (np. kanapki).
+3. Bardzo prosimy o nie wnoszenie i nie spożywanie produktów spożywczych kupionych poza sklepem. Punkt ten nie dotyczy dań dietetycznych i domowej roboty (np. kanapki).
 
 # REGULAMIN SKLEPU
 https://www.facebook.com/bolter.sklep/posts/4927919763989889
