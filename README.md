@@ -39,7 +39,17 @@ Nie
 Scenariusze losowane na starcie każdej rundy z dokumentu aktualnej wersji „Organized Play - Scenarios” z wykluczeniem scenariuszy już wylosowany wcześniej podczas turnieju. Oznacza to, że zostanie rozegrany każdy scenariusz. Do każdego stołu będą przypisane tereny, uprasza się ich nie przestawiać podczas trwania rozgrywki – nie będą się zmieniać wraz ze scenariuszami
 
 ### Proxy
-Modele z kategorii „Command Models” oraz „Additional Command Models” są dopuszczone do klimatycznego i smacznego sproxowania, niezależnie od tego, czy jest to model wydany czy nie. Model musi być wyraźnie oznaczony na standzie (przykład: można wystawić model Thegn w Nordach, gdyż nie ma jeszcze oficjalnego modelu w sprzedaży) Modele z Founders Exclusive (edycje limitowane ilością sztuk) są dopuszczane do gry (przykład: Tourney Champion w „The Joust”) Jeśli model z Founders Exclusive jest modelem z kategorii „Additional Command Models”, można klimatycznie i smacznie go sproxować. Model musi być wyraźnie oznaczony na standzie (przykład: Nie posiadając zestawu „The Joust” model Tourney Championa można sproxować) W razie sytuacji spornej podczas turnieju, finalne zdanie o dopuszczeniu modelu do gry ma Organizator Turnieju. By ustalić legalność modelu przed turniejem i by uniknąć przykrych niespodzianek, należy skontaktować się ze Sklepem celem weryfikacji legalności
+Modele z kategorii „Command Models” oraz „Additional Command Models” są dopuszczone do klimatycznego sproxowania, niezależnie od tego, czy jest to model wydany czy nie. Model musi być wyraźnie oznaczony na standzie (przykład: można wystawić model Thegn w Nordach, gdyż nie ma jeszcze oficjalnego modelu w sprzedaży) 
+
+Modele z Founders Exclusive (edycje limitowane ilością sztuk) są dopuszczane do gry (przykład: Tourney Champion w „The Joust”). Jeśli model z Founders Exclusive jest modelem z kategorii „Additional Command Models”, można go sproxować. Model musi być wyraźnie oznaczony na standzie (przykład: Nie posiadając zestawu „The Joust” model Tourney Championa można sproxować) 
+
+W razie sytuacji spornej podczas turnieju, finalne zdanie o dopuszczeniu modelu do gry ma Organizator Turnieju. By ustalić legalność modelu przed turniejem, należy skontaktować się z organizatorem celem weryfikacji legalności.  Konwersje modeli i kitbashowanie sa dopuszczalne, gdy wiekszosc modelu jest zlozona z czesci Para Bellum. 
+
+Model musi byc rozpoznawalny jako unit ktorym ma byc w grze. 
+
+Niedopuszczalna jest budowa modelu BEZ elementow nalezacych do docelowego unitu, tylko z czesci z innych zestawow/wylacznie z czesci innych producentow. By model byl dopuszczony, jego podstawa musi byc model który bedzie reprezentował w grze (za podstawe mozna uznac tors), np: 
+ - kusznik zlozony z torsu kusznika, z glowa longbowmana, rekami longbowmana i nogami kusznika, bronia z innej firmy- zostanie dopuszczony 
+ - man-at-arms zlozony z torsu longbowmana, glowki knighta, nog raiderow, tarczy huscarla i miecza z kitu firmy XYZ- NIE zostanie dopuszczony, bo nie zawiera elementow z zestawu man-at-arms
 
 ### Armie
 Nie muszą być malowane, jednak będzie to mile widziane. Przewidziany jest też konkurs na najlepiej pomalowaną warbandę (patrz [Konkurs Malarski](#konkurs-malarski) poniżej)
